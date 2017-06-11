@@ -3,5 +3,15 @@
     "info": {
         "title": "Account",
         "description": "This is an api for the accounts domain"
+    },
+    "paths": {
+        "/account/current": {
+            "get": {},
+            "post": {},
+            "delete": {}
+        }
+    },
+    "definitions": {
+        "BankAccount": {}
     }
 }
