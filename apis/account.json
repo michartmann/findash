@@ -12,6 +12,12 @@
         }
     },
     "definitions": {
-        "BankAccount": {}
+        "BankAccount": {
+            "properties": {
+                "name": {
+                    "type": "string"
+                }
+            }
+        }
     }
 }
