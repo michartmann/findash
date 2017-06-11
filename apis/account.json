@@ -1,6 +1,7 @@
 {
     "swagger": "2.0",
     "info": {
-        "title": "Account"
+        "title": "Account",
+        "description": "This is an api for the accounts domain"
     }
 }
